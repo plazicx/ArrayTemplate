@@ -19,6 +19,7 @@ public:
 		return ar[i];
 	}
 };
+ 
 
 
 int compare(std::string s1, std::string s2) {
